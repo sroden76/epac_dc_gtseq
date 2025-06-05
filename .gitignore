@@ -1,3 +1,11 @@
+#specific files and folders
+*.vcf
+*.sam
+*.bam
+*.fastq
+/results-R/microhaplot
+
+
 # History files
 .Rhistory
 .Rapp.history
